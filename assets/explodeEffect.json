@@ -1,0 +1,41 @@
+{
+	"textures": [
+		{
+			"image": "explodeEmit.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 32,
+				"h": 32
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "explodeEffect.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 30,
+						"h": 30
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 30,
+						"h": 30
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 30,
+						"h": 30
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:2907defe3b5332a93f02637dd0b2a566:ce2e75e3c006f598644d7142e0e62e88:5f7c9075900d7469ee6cb0ebce515320$"
+	}
+}
